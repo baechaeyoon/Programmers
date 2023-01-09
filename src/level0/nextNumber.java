@@ -1,4 +1,9 @@
 package level0;
+/*
+ * @author : baechaeyoon
+ * @date : 2023-01-09
+ * @title : 다음에 올 수
+ * */
 
 public class nextNumber {
     public static void main(String[] args){
