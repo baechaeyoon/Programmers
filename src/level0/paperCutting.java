@@ -1,5 +1,9 @@
 package level0;
-
+/*
+ * @author : baechaeyoon
+ * @date : 2023-01-12
+ * @title : 종이 자르기
+ * */
 public class paperCutting {
     public static void main(String[] args){
         int N = 2;

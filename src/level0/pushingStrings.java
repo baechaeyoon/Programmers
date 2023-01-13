@@ -1,5 +1,9 @@
 package level0;
-
+/*
+ * @author : baechaeyoon
+ * @date : 2023-01-12
+ * @title : 문자열 밀기
+ * */
 public class pushingStrings {
     public static void main(String[] args){
         String A = "hello";

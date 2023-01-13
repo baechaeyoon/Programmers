@@ -1,4 +1,9 @@
 package level0;
+/*
+ * @author : baechaeyoon
+ * @date : 2023-01-11
+ * @title : 영어가 싫어요
+ * */
 
 public class hateEnglish {
     public static void main(String[] args){
