@@ -1,5 +1,9 @@
 package level0;
-
+/*
+ * @author : baechaeyoon
+ * @date : 2023-01-26
+ * @title : 369 게임
+ * */
 public class game369 {
 
     public static void main(String[] args){
