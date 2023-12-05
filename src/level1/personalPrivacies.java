@@ -3,7 +3,7 @@ package level1;
 /*
 @author : baechaeyoon
 @date : 2023-12-03
-title : [2023 KAKAO BLIND RECRUITMENT] 개인정보 수집 유효기간
+@title : [2023 KAKAO BLIND RECRUITMENT] 개인정보 수집 유효기간
 */
 
 import java.util.ArrayList;
